@@ -217,6 +217,5 @@ This vision aligns perfectly with the broader Web3 movement, completing the stac
 
 For more information or to get involved with the OpenSky project:
 
-- GitHub: https://github.com/opensky-network
-- Email: contact@opensky.network
-- Website: https://opensky.network
+- GitHub: [https://github.com/opensky-network](https://github.com/Carl-Gustaf/opensky)
+- Email: g.ydstrom@hotmail.com
