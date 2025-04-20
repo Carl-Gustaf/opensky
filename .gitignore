@@ -1,0 +1,71 @@
+# ----------------------------------------
+# OS
+# ----------------------------------------
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ----------------------------------------
+# IDEs & Editors
+# ----------------------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ----------------------------------------
+# Node / JS
+# ----------------------------------------
+**/node_modules/
+npm-debug.log*
+yarn-error.log*
+yarn-debug.log*
+.pnpm-debug.log*
+
+# Environment variables
+.env
+.env.*.local
+
+# ----------------------------------------
+# Next.js / Frontend
+# ----------------------------------------
+ui/.next/
+ui/out/
+ui/build/
+
+# ----------------------------------------
+# Rust / ink! Contracts
+# ----------------------------------------
+**/target/
+# If you commit Cargo.lock for apps, remove the next line
+**/Cargo.lock
+
+# ink! build artifacts
+contracts/registry/target/
+contracts/registry/registry.contract.zip
+
+# standalone P2P node
+p2p-node/target/
+
+# ----------------------------------------
+# Worker containers
+# ----------------------------------------
+workers/**/node_modules/
+
+# ----------------------------------------
+# Scripts / Orchestrator
+# ----------------------------------------
+scripts/node_modules/
+
+# ----------------------------------------
+# Logs
+# ----------------------------------------
+logs/
+*.log
+
+# ----------------------------------------
+# Misc
+# ----------------------------------------
+coverage/
+*.gz
+*.zip
